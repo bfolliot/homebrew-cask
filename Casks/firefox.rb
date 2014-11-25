@@ -2,7 +2,7 @@ cask :v1 => 'firefox' do
   version :latest
   sha256 :no_check
 
-  url 'https://download.mozilla.org/?product=firefox-latest&os=osx&lang=en-US'
+  url 'https://download.mozilla.org/?product=firefox-latest&os=osx&lang=fr'
   homepage 'https://www.mozilla.org/en-US/firefox/'
   license :oss
 
